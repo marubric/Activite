@@ -1,4 +1,5 @@
-Ce projet consiste à mettre en application les enseignements du cours "Gérez votre code avec Git et GitHub" du site openclassrooms
+Ce projet consiste à mettre en application les enseignements
+du cours "Gérez votre code avec Git et GitHub" du site openclassrooms
 
 L'activité consiste àcreer un repository Git qui détient :
 
